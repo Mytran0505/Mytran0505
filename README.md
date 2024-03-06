@@ -1,9 +1,10 @@
+<!--
 <h1 align="center">Hi 👋, I'm Tran (Ena Nguyen)</h1>
 <h3 align="center">A passionate .Net developer from Viet Nam</h3>
 <img align="right" alt="coding" with="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8juPr-UvexS2YY4VmXZQ_dFB3hYc_2Hz2WA&usqp=CAU">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mytran0505&label=Profile%20views&color=0e75b6&style=flat" alt="mytran0505" /> </p>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mytran0505" alt="mytran0505" /></a> </p>  -->
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mytran0505" alt="mytran0505" /></a> </p> 
 
 - 🌱 I’m currently learning **ASP.NET CORE MVC**
 
@@ -44,7 +45,7 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<!--
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mytran0505&show_icons=true&locale=en&layout=compact" alt="mytran0505" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mytran0505&show_icons=true&locale=en" alt="mytran0505" /></p>
 
