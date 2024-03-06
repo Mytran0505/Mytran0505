@@ -1,11 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Tran (Ena Nguyen)</h1>
 <h3 align="center">A Data Science|Data Engineer from Viet Nam</h3>
-<img align="right" alt="coding" with="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8juPr-UvexS2YY4VmXZQ_dFB3hYc_2Hz2WA&usqp=CAU">
+<!--<img align="right" alt="coding" with="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8juPr-UvexS2YY4VmXZQ_dFB3hYc_2Hz2WA&usqp=CAU">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mytran0505&label=Profile%20views&color=0e75b6&style=flat" alt="mytran0505" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mytran0505" alt="mytran0505" /></a> </p> 
-<!--
+
 - 🌱 I’m currently learning **ASP.NET CORE MVC**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mytran0505](https://github.com/Mytran0505)
