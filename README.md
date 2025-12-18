@@ -16,15 +16,6 @@
   />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=mytran0505"
-      alt="mytran0505"
-    />
-  </a>
-</p>
-
 <ul>
   <li>🌱 I’m currently learning <b>ASP.NET CORE MVC</b></li>
   <li>
@@ -105,11 +96,3 @@
     src="https://github-readme-stats.vercel.app/api?username=mytran0505&show_icons=true"
   />
 </p>
-
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=mytran0505"
-  />
-</p>
-
