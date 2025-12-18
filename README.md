@@ -113,15 +113,3 @@
   />
 </p>
 
-<img
-  width="918"
-  height="511"
-  src="https://github.com/user-attachments/assets/703dee00-616f-45ba-9f52-ef513a076030"
-/>
-
-<img
-  width="918"
-  height="511"
-  src="https://github.com/user-attachments/assets/79fa22c7-4262-46e0-841e-0129ba3f6c06"
-/>
-
