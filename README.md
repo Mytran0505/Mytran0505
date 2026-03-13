@@ -22,7 +22,7 @@
     👨‍💻 All of my projects are available at
     <a href="https://github.com/Mytran0505">https://github.com/Mytran0505</a>
   </li>
-  <li>💬 Ask me about <b>C#, C++, JAVA, PYTHON, SQL,...</b></li>
+  <li>💬 Ask me about <b>C#, C++, JAVA, PYTHON, SQL, JS, .NET, Salesforce, ...</b></li>
   <li>📫 How to reach me <b>mytran0505itlker@gmail.com</b></li>
   <li>⚡ Fun fact <b>Outgoing Autism, Traveling, Playing Sport</b></li>
 </ul>
